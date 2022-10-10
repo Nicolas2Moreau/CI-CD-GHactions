@@ -1,2 +1,3 @@
-# CI-CD-GHactions
-Safe CI and publish tryouts
+# CI-CD-GHactions   
+
+Safe CI and deployement tryouts
